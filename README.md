@@ -1,6 +1,6 @@
 compile the source code and grab the executable:
 
-    gcc zer0fucks/core.c -o zf.out
+    gcc zer0fucks.c -o zf.out
 
 then, you can use this executable file to compile brainfuck programs. to get only the output of a brainfuck program:
 
