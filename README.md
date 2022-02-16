@@ -1,4 +1,4 @@
-zer0fucks is a lightweight, super fast [brainfuck][https://en.wikipedia.org/wiki/Brainfuck#:~:text=Brainfuck%20is%20an%20esoteric%20programming%20language%20created%20in%201993%20by%20Urban%20M%C3%BCller.&text=Brainfuck%20simply%20requires%20one%20to,the%20limits%20of%20one%27s%20understanding.] compiler
+zer0fucks is a lightweight, super fast [brainfuck](https://en.wikipedia.org/wiki/Brainfuck#:~:text=Brainfuck%20is%20an%20esoteric%20programming%20language%20created%20in%201993%20by%20Urban%20M%C3%BCller.&text=Brainfuck%20simply%20requires%20one%20to,the%20limits%20of%20one%27s%20understanding.)compiler
 
 compile the source code and grab the executable:
 
